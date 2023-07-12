@@ -30,11 +30,20 @@ Spring Boot 3
 
 > spring-boot-starter-actuator
 
-> postgresql
+> postgresql database
+
+> Postman tool
 
 # Note:-
 If you need any help feel free to reach out Vikashktr018@gmail.com
  
+# Image from railway.app
+
+![image](https://github.com/Vikashkatiyar/content-calendar/assets/89769715/d8d79ce0-8d57-443b-a57f-c4c7a6965895)
+
+# Image from Postman
+
+![image](https://github.com/Vikashkatiyar/content-calendar/assets/89769715/a386f392-b32c-4a6f-8bde-ce3396cb801d)
 
 
 
